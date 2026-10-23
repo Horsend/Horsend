@@ -1,16 +1,48 @@
-## Hi there 👋
+### Hi! I'm Yago Faria 🖖
 
-<!--
-**Horsend/Horsend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-faria/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaftir)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+<div align="left">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaftir&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+### Technologies & Tools
+
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="LangChain" height="35" width="45" src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo-dark.svg">
+</div>
+
+---
+
+### Current Focus
+- Learning new frameworks
+- Building full-stack applications
+
+---
+
+### Let's Connect!
+
+ **Email:** yagoassisfaria@gmail.com  
+ **LinkedIn:** [Yago Faria](https://www.linkedin.com/in/yago-faria/)
+
+---
+
+<div align="center">
+  
+*"Passionate about turning gaming experience into code solutions!"* 🎯
+
+</div>
